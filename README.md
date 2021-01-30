@@ -25,7 +25,7 @@ allprojects {
 ### Add the dependency in your app build.gradle
 ```
 dependencies {
-	implementation 'com.github.avishekdas128:Language-Drawbale:0.1.0'
+	implementation 'com.github.avishekdas128:Language-Drawbale:0.1.3'
 }
 ```
 ### Now in your Java code,
