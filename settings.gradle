@@ -1,0 +1,3 @@
+include ':Language Drawable'
+include ':app'
+rootProject.name = "LanguageDrawbaleExample"
