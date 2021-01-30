@@ -6,7 +6,10 @@ I am open sourcing it to give back to community.
 # Language Drawable [![](https://jitpack.io/v/avishekdas128/Language-Drawbale.svg)](https://jitpack.io/#avishekdas128/Language-Drawbale)
 A language drawable generator like GitHub in Android.
 
-## A quick demo
+## Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/43132866/106358279-41000600-6331-11eb-950e-58c18d01ab5a.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/43132866/106358280-42313300-6331-11eb-8fa6-5c7cb81ee41d.png)
 
 
 ## How to implement in your project
